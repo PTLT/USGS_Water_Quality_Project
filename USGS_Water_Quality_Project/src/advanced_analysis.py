@@ -1,9 +1,4 @@
-"""Additional analysis outputs for the USGS water quality project.
 
-This script creates supporting outputs for data quality auditing, event-style
-records, site profile vectors, and site similarity analysis. These outputs extend
-the main query experiment without changing its baseline or optimized results.
-"""
 
 from pathlib import Path
 import math
