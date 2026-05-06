@@ -1,18 +1,4 @@
-"""Download a Water Quality Portal CSV file for this project.
 
-The project can also use a manually downloaded file. This script is optional,
-but it makes the data collection step reproducible.
-
-Default query:
-- Ohio water quality sample results
-- NWIS provider
-- physical/chemical result profile
-- water samples
-- 2015-01-01 to 2024-12-31
-
-The downloaded file is saved as data/raw/usgs_water_quality_raw.csv so that
-src/parser.py can read it directly.
-"""
 
 from __future__ import annotations
 
