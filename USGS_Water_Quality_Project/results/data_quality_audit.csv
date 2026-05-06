@@ -1,0 +1,10 @@
+column,missing_count,missing_pct,unique_count,example_non_null_value
+site_id,0,0.0,23,USGS-412928081560220
+site_name,12400,100.0,0,
+state,12400,100.0,0,
+latitude,12400,100.0,0,
+longitude,12400,100.0,0,
+sample_date,0,0.0,784,2015-07-19 00:00:00
+characteristic,0,0.0,242,"Temperature, water"
+result_value,0,0.0,1927,74.3
+unit,0,0.0,29,deg F

@@ -1,0 +1,13 @@
+dataset_size,query_type,query_shape,characteristic,start_date,end_date,min_value,max_value
+1000,simple,characteristic,Turbidity,,,,
+1000,medium,characteristic_value_range,Turbidity,,,1.48,70.19999999999993
+1000,complex,characteristic_value_date_range,Turbidity,2019-07-07,2021-07-07,1.48,70.19999999999993
+5000,simple,characteristic,Escherichia coli,,,,
+5000,medium,characteristic_value_range,Escherichia coli,,,5.0,1300.0
+5000,complex,characteristic_value_date_range,Escherichia coli,2018-09-28,2020-09-28,5.0,1300.0
+10000,simple,characteristic,Escherichia coli,,,,
+10000,medium,characteristic_value_range,Escherichia coli,,,5.0,1129.9999999999955
+10000,complex,characteristic_value_date_range,Escherichia coli,2018-09-30,2020-09-30,5.0,1129.9999999999955
+12400,simple,characteristic,Escherichia coli,,,,
+12400,medium,characteristic_value_range,Escherichia coli,,,5.0,1204.9999999999955
+12400,complex,characteristic_value_date_range,Escherichia coli,2018-09-30,2020-09-30,5.0,1204.9999999999955
